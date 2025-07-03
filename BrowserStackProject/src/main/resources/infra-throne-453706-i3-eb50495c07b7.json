@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "infra-throne-453706-i3",
+  "private_key_id": "eb50495c07b79b11782c2759316b3daa09a09713",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1Xvynrt/njn/e\n1RMkWd5yPocQGuoTkaKH4J7RdveBfU7xzk4xd4CZO6YduW3zGgbuEZIl7wi8Desh\nu/YJ3KIcPGKCME6tNFi5Pl16mUKBe8DF9xYIKo0/WhnUMY3JrYuTUKb35uxnWDIM\nVP7RMza4L5WI0WamJZJpjMWKVukbVBb2zjy6Xw7uk4SIIA0qh5rVz8aiwVDSJ08s\nVJBtE3XHeGfsVU1wJAJ6pT0cIUqvzPveDUhPpAI9z6pCmJ52nB/8O3g5WV6uW70x\nYgWELAnGdNUNnAObaSP6cPAep4r05rraVdnLwkBpbhbeySDOl4uluE4uba8XoVbF\nGOGr7So/AgMBAAECggEATwCwJ056Q4AD3QmNTAFFbxgjdvVyTtHaLTu/klgy2Zm+\nwH9v+gYm4xhjdIEoDoOgzySiN5nWgSvC5y/brVII3ynCcxkdvD6YAyDSUSvfF03T\nm6fUVfxLCHRz2cU4EMhiiunPwR46jY2SR2LimDeptzMq/KzR/L9S9l0WUvsmkPsj\nGIEB8Op1QsvEm58EjrgqfB0g+t9PFz9yvVYHEdwzpeOaQ/gCG4Xuk83VGpyBpbHR\nnlt4yGCUYadjTxHRUqWqieSYI5Jd4qSuCfwA9bRcz5DXh1MCFx38Cal6YJ/snRNq\nTw8Rdym6JUpBPJt6zwCFOXyKmueyRh5otriKDkcHqQKBgQD6/jpeZ9EETrwCkBFr\n6AHjUwbiRY1IBYE24P7tNgptlVwVr6OVZs7GYOSw76CA+zHmhBCQm8tc5ZiBiqMX\nnHVEvtPdvpbGfd+NiJo/fkW4PAnBYF354dyiVjbXgxqMjQNWEgAKPNRIUkfUdCU5\nHmp4FL4O2Ms0a4t65miC8ydDTQKBgQC4/TaFHyzt1f0EDOtXLijD3/G/dk0Zbe+6\ngN1XdQa9nqvEQ8tNjv7kpngW8cuVvG4t8sAmEade5sbLZZ3ovTH+GeQ8XMSJT9uf\neJ+kyp7ZvgV2n93iCGRUcphhvzr7eS/G3dz5yPUmQX2+R3sG1B2UCXy1TNf6izjD\nNScmFWiFuwKBgAbc7LuoGw8DGCD5z4Aj1+lfW9DUFgjiHaZigJX75E0ayGnPY6my\nJfVGsPolkz3zoGmtMsbBe84OeR0RrWP34zz9+s0VaQoEZxh3o8AYs89V1O50tB0h\nD+dgdB9wdklhkbXIyDd/ck6H8W7dvibRrheaeZfuVaAZULcLlc/+1hQBAoGADXpt\niX9+/4ky2SOz1fNIBxV/AKs27N5ktBsFhYTCS/iOnUsvOeRsT+6NG2bcpXlIMdLZ\nCy0IG9MGsvUhbz6xsMjkJz2/GB4Ya2MXhqM4tbaxoTX+raRc4wZCcgTD4GSxBXVO\nz2hD7FijN8TvgszbptiWHIOPzPJt3VM3GgA/UFcCgYB9MAc72zyCEjWkimcxcjKd\nqDaXLQpczk+hc/ZIM8eChOjX0abjhhnb+ZWkVXFa1snB6niSjBDAjiIjbokYfQ8G\n+OshVkR8uRXytZIpqdTmqIKINfuke8SJnkirRVzq7gVL2DsWytXTxqtBlnc133vX\nYQKLR8Zpj8C9n3pPGKErag==\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate-english@infra-throne-453706-i3.iam.gserviceaccount.com",
+  "client_id": "112314209518135198178",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate-english%40infra-throne-453706-i3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

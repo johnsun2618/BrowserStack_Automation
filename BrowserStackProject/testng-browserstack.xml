@@ -1,0 +1,60 @@
+<suite name="BrowserStackSuite" parallel="tests" thread-count="5">
+
+    <test name="Chrome_Windows">
+        <parameter name="os" value="Windows" />
+        <parameter name="osVersion" value="10" />
+        <parameter name="browser" value="Chrome" />
+        <parameter name="browserVersion" value="120.0" />
+        <parameter name="device" value="" />
+        <classes>
+            <class name="Testrunner.TestRunnerElPais" />
+        </classes>
+    </test>
+
+
+    <test name="Edge_Mac">
+        <parameter name="os" value="OS X" />
+        <parameter name="osVersion" value="Monterey" />
+        <parameter name="browser" value="safari" />
+        <parameter name="browserVersion" value="latest" />
+        <parameter name="device" value="" />
+        <classes>
+            <class name="Testrunner.TestRunnerElPais" />
+        </classes>
+    </test>
+
+
+    <test name="iPhone13_Safari">
+        <parameter name="os" value="" />
+        <parameter name="osVersion" value="15" />
+        <parameter name="browser" value="safari" />
+        <parameter name="browserVersion" value="" />
+        <parameter name="device" value="iPhone 13" />
+        <classes>
+            <class name="Testrunner.TestRunnerElPais" />
+        </classes>
+    </test>
+
+    <!-- ✅ 4. Samsung Galaxy S24 - Chrome -->
+    <test name="Galaxy_S24">
+        <parameter name="os" value="" />
+        <parameter name="browser" value="" />
+        <parameter name="browserVersion" value="" />
+        <parameter name="device" value="Samsung Galaxy S24" />
+        <classes>
+            <class name="Testrunner.TestRunnerElPais" />
+        </classes>
+    </test>
+
+    <!-- ✅ 5. Windows 11 - Edge -->
+    <test name="Edge_Windows">
+        <parameter name="os" value="Windows" />
+        <parameter name="browser" value="Edge" />
+        <parameter name="browserVersion" value="latest" />
+        <parameter name="device" value="" />
+        <classes>
+            <class name="Testrunner.TestRunnerElPais" />
+        </classes>
+    </test>
+
+</suite>
